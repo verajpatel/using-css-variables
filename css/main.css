@@ -23,7 +23,7 @@ html {
 
 .btn {
   background-color: var(--color-primary);
-  border-color: color: var(--color-primary);
-  border-radius: color: var(--color-primary);
-  font-family: var(--font-secondary)
+  border-color: var(--color-primary);
+  border-radius: var(--color-primary);
+  font-family: var(--font-secondary);
 }

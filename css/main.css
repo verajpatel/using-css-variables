@@ -1,6 +1,6 @@
 :root {
   --color-primary: #f39;
-  --border-radius: 14px 0 14px 0 ;
+  --border-radius: 14px 0 14px 0;
   --font-primary: sans-serif;
   --font-secondary: "Roboto Slab", sans-serif;
 }
@@ -13,8 +13,8 @@ html {
   max-width: 24em;
 
   border: 3px solid red;
-  border-radius: 4px;
-  font-family: var(--font-secondary)
+  border-radius: var(--border-radius);
+  font-family: var(--font-secondary);
 }
 
 .card-title {
